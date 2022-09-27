@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PostRequestParameter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PostRequestParameter</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="posrreq-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PostRequestParameter:war exploded" />
+    </root>
+  </artifact>
+</component>

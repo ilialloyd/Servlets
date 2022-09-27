@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExceptionHandling_JSP:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ExceptionHandling_JSP</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="exception-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ExceptionHandling_JSP:war exploded" />
+    </root>
+  </artifact>
+</component>

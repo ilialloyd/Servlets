@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MakingServlet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MakingServlet</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MakingServlet-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MakingServlet:war exploded" />
+    </root>
+  </artifact>
+</component>
